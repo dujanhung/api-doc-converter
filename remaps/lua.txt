@@ -1,9 +1,11 @@
 🏴
 ### inheritance
+
 - parent:⚫parent⛓️⚪
 - child:⚫child⛓️delim(',')⚪
 🏳️
 ### inheritance
+
 <table><thread><tr><td>
 parent
 </td><td>
@@ -12,3 +14,4 @@ parent
 child
 </td><td>
 ⚫child⚪
+</td></tr></tbody></table>
