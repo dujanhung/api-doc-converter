@@ -2,8 +2,10 @@
 ### inheritance
 
 - parent:⚫var()⚪
-- child:⚫var(),delim(,)⚪
+- child:⚫var(),delim(',')⚪
 🏳️
 ### inheritance
 
 <table><thread><tr><td>
+parent
+</td><td>
