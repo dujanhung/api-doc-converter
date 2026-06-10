@@ -33,7 +33,7 @@ input texts
 ◇
 ```
 
-represents a regex from an input MD file.
+represents a regex from the input file.
 
 # <code>◘</code>
 
@@ -44,7 +44,7 @@ input texts
 ◇
 ```
 
-represents a regex from an output MD file.
+represents a regex from the output file.
 
 # <code>▼▲</code>
 
