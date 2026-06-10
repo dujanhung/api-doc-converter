@@ -1,11 +1,17 @@
 ▼
-▣inheritance
+▣
+◆
+inheritance
+◇
 ◙
+◆
 ### inheritance
 
 - parent:▶parent◀
 - child:◨▶child◀◧(delim(','))
+◇
 ◘
+◆
 ### inheritance
 
 <table><thread><tr><td>
@@ -17,10 +23,15 @@ child
 </td><td>
 ◨▶child◀◧(delim='\n<br>\n')
 </td></tr></tbody></table>
+◇
 ▲
 ▼
-▣method description
+▣
+◆
+method description
+◇
 ◙
+◆
 ### method description
 
 ◨
@@ -30,7 +41,9 @@ range=▶range◀
 
 ▶description◀
 ◧'\n\n'
+◇
 ◘
+◆
 ### method description
 
 ◨table(begin='thread',clean='true')
@@ -48,4 +61,5 @@ range=▶range◀
 
 ▶description◀
 ◧
+◇
 ▲
