@@ -2,19 +2,15 @@
 
 # ◆◇
 
-represents an abitrary text content.
-
-```
+```txt
 ◆
+texts
 ◇
 ```
 
+represents an abitrary text content.
+
 # ▣
-
-represents metadata.
-
-> [!NOTE]
-> this text would be ignored at runtime.
 
 ```
 ▣
@@ -23,15 +19,20 @@ metadata texts
 ◇
 ```
 
-# ▼▲
+represents a metadata.
 
-represents an entry.
+> [!NOTE]
+> metadatas would be ignored at runtime.
+
+# ▼▲
 
 ```txt
 ▼
 ...
 ▲
 ```
+
+represents an entry.
 
 # ▶◀
 
