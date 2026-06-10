@@ -24,6 +24,17 @@ represents a metadata.
 > [!NOTE]
 > metadatas would be ignored at runtime.
 
+# <code>◙</code>
+
+```
+◙
+◆
+input texts
+◇
+```
+
+represents an input text from a MD file.
+
 # <code>▼▲</code>
 
 ```txt
