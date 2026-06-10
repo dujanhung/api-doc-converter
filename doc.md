@@ -35,6 +35,17 @@ input texts
 
 represents a regex from an input MD file.
 
+# <code>◘</code>
+
+```
+◘
+◆
+input texts
+◇
+```
+
+represents a regex from an output MD file.
+
 # <code>▼▲</code>
 
 ```txt
