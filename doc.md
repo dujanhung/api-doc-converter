@@ -1,6 +1,8 @@
 # the MD regex converter language
 
-# <code>◆◇</code>
+## variants
+
+### <code>◆◇</code>
 
 ```txt
 ◆
@@ -10,7 +12,9 @@ input texts
 
 represents an abitrary text content.
 
-# <code>▣</code>
+## keywords
+
+### <code>▣</code>
 
 ```
 ▣
@@ -24,7 +28,7 @@ represents a metadata.
 > [!NOTE]
 > metadatas would be ignored at runtime.
 
-# <code>◙</code>
+### <code>◙</code>
 
 ```
 ◙
@@ -35,7 +39,7 @@ input texts
 
 represents a regex from the input file.
 
-# <code>◘</code>
+### <code>◘</code>
 
 ```
 ◘
@@ -46,7 +50,9 @@ input texts
 
 represents a regex from the output file.
 
-# <code>▼▲</code>
+## specials
+
+### <code>▼▲</code>
 
 ```txt
 ▼
@@ -58,7 +64,9 @@ represents a regex from the output file.
 
 represents an entry.
 
-# <code>▶◀</code>
+## regexs
+
+### <code>▶◀</code>
 
 ```txt
 ▶var_name◀
