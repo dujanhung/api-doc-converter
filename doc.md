@@ -22,6 +22,12 @@ list of texts
 
 represents a list of texts.
 
+#### attributes
+
+- `row()`
+- `collumn()`
+- `table()`
+
 ## keywords
 
 ### <code>▣</code>
