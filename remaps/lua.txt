@@ -1,11 +1,11 @@
 ▼
-🏷️inheritance
-🏴
+▣inheritance
+◙
 ### inheritance
 
 - parent:▶parent◀
-- child:🪟▶child◀🧱','
-🏳️
+- child:◨▶child◀◧','
+◘
 ### inheritance
 
 <table><thread><tr><td>
@@ -19,22 +19,21 @@ child
 </td></tr></tbody></table>
 ▲
 ▼
-🏷️method description
-🏴
+▣method description
+◙
 ### method description
 
-🪟
+◨
 name=▶name◀
 variant-type=▶variant-type◀
 range=▶range◀
 
 ▶description◀
-🧱'\n\n'
-
-🏳️
+◧'\n\n'
+◘
 ### method description
 
-🪟table(begin='thread',clean='true')
+◨table(begin='thread',clean='true')
 ```json
 {
  "name":"▶name◀",
@@ -48,5 +47,5 @@ range=▶range◀
 ```
 
 ▶description◀
-🧱
+◧
 ▲
