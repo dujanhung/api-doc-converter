@@ -33,7 +33,7 @@ represents a metadata.
 ```
 ◙
 ◆
-input texts
+input regexs
 ◇
 ```
 
@@ -44,7 +44,7 @@ represents a regex content from the input file.
 ```
 ◘
 ◆
-input texts
+output regexs
 ◇
 ```
 
