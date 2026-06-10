@@ -6,7 +6,7 @@
 
 ```txt
 ◆
-input texts
+abitrary texts
 ◇
 ```
 
@@ -16,7 +16,7 @@ represents an abitrary text content.
 
 ```txt
 ◨
-input texts
+list of texts
 ◧◉○
 ```
 
