@@ -2,7 +2,7 @@
 
 # ◆◇
 
-represents a text content.
+represents an abitrary text content.
 
 ```
 ◆
