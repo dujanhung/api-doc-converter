@@ -40,7 +40,7 @@ variant-type=▶variant-type◀
 range=▶range◀
 
 ▶description◀
-◧◉○
+◧◉delim='\n\n'○
 ◇
 ◘
 ◆
@@ -60,6 +60,6 @@ range=▶range◀
 ```
 
 ▶description◀
-◧◉○
+◧◉table(clean(begin='thread')),delim='\n\n'○
 ◇
 ▲
