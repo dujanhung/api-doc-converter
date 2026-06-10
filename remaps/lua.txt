@@ -1,6 +1,9 @@
 🏴
 ### inheritance
 
-- parent:⚫❓⚪
-- child:⚫❓delim(,)⚪
+- parent:⚫❓var()⚪
+- child:⚫❓var(),delim(,)⚪
 🏳️
+### inheritance
+
+<table><thread><tr><td>
