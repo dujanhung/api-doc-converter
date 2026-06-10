@@ -36,7 +36,9 @@ represents a list of texts.
 
 ## keywords
 
-### <code>▣</code>
+<table><tr><td>
+
+# <code>▣</code>
 
 ```
 ▣
@@ -50,7 +52,9 @@ represents a metadata.
 > [!NOTE]
 > metadatas would be ignored at runtime.
 
-### <code>◙</code>
+</td><td>
+
+# <code>◙</code>
 
 ```
 ◙
@@ -61,7 +65,9 @@ input regexs
 
 represents a regex content from the input file.
 
-### <code>◘</code>
+</td><td>
+
+# <code>◘</code>
 
 ```
 ◘
@@ -71,6 +77,8 @@ output regexs
 ```
 
 represents a regex content from the output file.
+
+</td></tr></table>
 
 ## containers
 
