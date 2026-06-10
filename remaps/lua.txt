@@ -1,8 +1,8 @@
 🏴
 ### inheritance
 
-- parent:⚫❓var()⚪
-- child:⚫❓var(),delim(,)⚪
+- parent:⚫var()⚪
+- child:⚫var(),delim(,)⚪
 🏳️
 ### inheritance
 
