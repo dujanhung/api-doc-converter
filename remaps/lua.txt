@@ -29,7 +29,7 @@ variant-type=⚫variant-type🌈⚪
 range=⚫range🌈⚪
 
 ⚫description⚪
-🧱'\n'
+🧱'\n\n'
 
 🏳️
 ### method description
