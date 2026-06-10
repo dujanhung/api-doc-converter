@@ -12,6 +12,16 @@ input texts
 
 represents an abitrary text content.
 
+### <code>◨◧</code>
+
+```txt
+◨
+input texts
+◧◉○
+```
+
+represents a list of texts.
+
 ## keywords
 
 ### <code>▣</code>
