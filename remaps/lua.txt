@@ -3,8 +3,8 @@
 🏴
 ### inheritance
 
-- parent:⚫parent⛓️⚪
-- child:⚫child⛓️delim(',')⚪
+- parent:⚫parent⛓️🌈str⚪
+- child:⚫child⛓️delim(',')🌈list[str]⚪
 🏳️
 ### inheritance
 
