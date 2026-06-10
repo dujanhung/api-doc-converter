@@ -10,6 +10,9 @@ texts
 
 represents an abitrary text content.
 
+> [!NOTE]
+> this bracket can only be used with `◙` and `◘`.
+
 # ▣
 
 ```
