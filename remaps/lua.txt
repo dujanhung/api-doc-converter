@@ -40,6 +40,8 @@ variant-type=▶variant-type◀
 range=▶range◀
 
 ▶description◀
+
+_
 ◧◉delim='\n\n'○
 ◇
 ◘
