@@ -1,4 +1,4 @@
-# the API doc converter language
+# the MD regex converter language
 
 # <code>◆◇</code>
 
