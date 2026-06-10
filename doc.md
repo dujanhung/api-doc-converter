@@ -2,7 +2,9 @@
 
 ## variants
 
-### <code>◆◇</code>
+<table><thread><tr><td>
+
+# <code>◆◇</code>
 
 ```txt
 ◆
@@ -12,7 +14,9 @@ abitrary texts
 
 represents an abitrary text content.
 
-### <code>◨◧</code>
+</td></tr></thread><tbody><tr><td>
+
+# <code>◨◧</code>
 
 ```txt
 ◨
@@ -22,11 +26,13 @@ list of texts
 
 represents a list of texts.
 
-#### attributes
+## attributes
 
 - `row()`
 - `collumn()`
 - `table()`
+
+</td></tr></tbody>
 
 ## keywords
 
