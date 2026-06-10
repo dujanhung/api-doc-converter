@@ -7,9 +7,7 @@
 𒐪𒐪𒐪𒐪𒐪
 
 <details><summary>
-<h1>
-<code>◆◇</code>
-<h1>
+<h1><code>◆◇</code></h1>
 </summary>
 
 ```txt
