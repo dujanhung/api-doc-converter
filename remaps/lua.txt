@@ -1,34 +1,34 @@
-▛
+▼
 🏷️inheritance
 🏴
 ### inheritance
 
-- parent:⚫parent⚪
-- child:🪟⚫child⚪🧱','
+- parent:▶parent◀
+- child:🪟▶child◀🧱','
 🏳️
 ### inheritance
 
 <table><thread><tr><td>
 parent
 </td><td>
-⚫parent⚪
+▶parent◀
 </td></tr></thread><tbody><tr><td>
 child
 </td><td>
-⚫child⚪
+▶child◀
 </td></tr></tbody></table>
-▟
-▛
+▲
+▼
 🏷️method description
 🏴
 ### method description
 
 🪟
-name=⚫name🌈⚪
-variant-type=⚫variant-type🌈⚪
-range=⚫range🌈⚪
+name=▶name◀
+variant-type=▶variant-type◀
+range=▶range◀
 
-⚫description⚪
+▶description◀
 🧱'\n\n'
 
 🏳️
@@ -37,16 +37,16 @@ range=⚫range🌈⚪
 🪟table(begin='thread',clean='true')
 ```json
 {
- "name":"⚫name⚪",
- "variant-type":"⚫variant-type⚪",
- "range":"⚫range⚪"
+ "name":"▶name◀",
+ "variant-type":"▶variant-type◀",
+ "range":"▶range◀"
 }
 ```
 
 ```lua
-⚫name⚪
+▶name◀
 ```
 
-⚫description⚪
+▶description◀
 🧱
-▟
+▲
