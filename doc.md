@@ -37,7 +37,7 @@ input texts
 ◇
 ```
 
-represents a regex from the input file.
+represents a regex content from the input file.
 
 ### <code>◘</code>
 
@@ -48,7 +48,7 @@ input texts
 ◇
 ```
 
-represents a regex from the output file.
+represents a regex content from the output file.
 
 ## containers
 
