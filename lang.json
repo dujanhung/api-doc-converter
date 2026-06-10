@@ -1,6 +1,8 @@
 {
  "symbols":{
   "entry_open":"▛",
-  "entry_close":"▟"
+  "entry_close":"▟",
+  "var_open":"▗",
+  "var_close":"▖"
  }
 }
