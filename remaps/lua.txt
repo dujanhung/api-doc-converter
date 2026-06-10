@@ -1,2 +1,6 @@
 🏴
+### inheritance
+
+- parent:⚫❓⚪
+- child:⚫❓delim=','⚪
 🏳️
