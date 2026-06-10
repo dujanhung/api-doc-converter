@@ -4,7 +4,7 @@
 ### inheritance
 
 - parent:▶parent◀
-- child:◨▶child◀◧','
+- child:◨▶child◀◧(delim(','))
 ◘
 ### inheritance
 
@@ -15,7 +15,7 @@ parent
 </td></tr></thread><tbody><tr><td>
 child
 </td><td>
-▶child◀
+◨▶child◀◧(delim='\n<br>\n')
 </td></tr></tbody></table>
 ▲
 ▼
