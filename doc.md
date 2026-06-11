@@ -2,6 +2,8 @@
 
 ## description
 
+the regex-based converter language is a file format that designated to convert files with regex.
+
 ## example
 
 ### RECL file
