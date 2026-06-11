@@ -24,7 +24,7 @@ list of texts
 ◧◉delim(','),collumn('1')○
 ```
 
-represents an infinite repetitive structure of a list, or a table regex with delimeter.
+represents an infinite repetitive structure of an abitrary text, a list, or a table.
 
 <table><thread><tr><td>
 attributes
