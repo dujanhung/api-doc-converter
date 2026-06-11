@@ -43,7 +43,7 @@ the looks
 look.
 ◨
 ▶a◀ is broken.
-◧▰delim('\n')▱
+◧▰delim(◑\n◐)▱
 that's all the pots.
 ◇
 ◘
@@ -51,7 +51,7 @@ that's all the pots.
 broken-pot-names: [
 ◨
 '▶a◀'
-◧▰delim(',\n')▱
+◧▰delim(◑,\n◐)▱
 ]
 ◇
 ▲
@@ -227,7 +227,7 @@ represents a regex variable.
 ```txt
 ◨
 list of texts
-◧▰delim(',')▱
+◧▰delim(◑,◐)▱
 ```
 
 represents an infinite repetitive structure of an abitrary text, a MD list, or a MD table.
