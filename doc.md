@@ -94,7 +94,7 @@ represents a flag container.
 
 </td></tr></thread></table>
 
-## regexs
+## regex methods
 
 <table><thread><tr><td>
 
