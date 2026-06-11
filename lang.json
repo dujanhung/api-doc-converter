@@ -10,5 +10,8 @@
   "entry":["▼","▲"],
   "var":["▶","◀"],
   "list":["◨","◧"]
+ },
+ "special-chars":{
+  "missing-var":"𒐪"
  }
 }
