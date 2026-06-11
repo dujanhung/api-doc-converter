@@ -34,7 +34,7 @@ look.
 ◨
 ▶a◀ is broken.
 ◧▰delim('\n')▱
-that's all the pots
+that's all the pots.
 ◇
 ◘
 ◆
