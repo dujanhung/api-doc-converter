@@ -46,7 +46,11 @@ construct a table with <code>n</code> row
 <code>collumn(n)</code>
 </td><td>
 construct a table with <code>n</code> collumn
-</td></tr></thread></table>
+</td></tr></thread><tbody><tr><td>
+<code>delim(n)</code>
+</td><td>
+split strings with delimeter <code>n</code>
+</td></tr></tbody></table>
 
 </td></tr></tbody></table>
 
