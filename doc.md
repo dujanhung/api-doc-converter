@@ -2,14 +2,11 @@
 
 ## variants
 
-<table><tr><td>
+<table><thread><tr><td>
 
 𒐪𒐪𒐪𒐪𒐪
 
-<details>
-<summary>
-<code>◆◇</code>
-</summary>
+# <code>◆◇</code>
 
 ```txt
 ◆
@@ -19,11 +16,9 @@ abitrary texts
 
 represents an abitrary text content.
 
-</details>
-
 𒐪𒐪𒐪𒐪𒐪
 
-</td><td>
+</td></tr></thread><tbody><tr><td>
 
 𒐪𒐪𒐪𒐪𒐪
 
@@ -46,7 +41,7 @@ represents a list of texts.
 
 𒐪𒐪𒐪𒐪𒐪
 
-</td></tr></table>
+</td></tr></tbody></table>
 
 ## keywords
 
