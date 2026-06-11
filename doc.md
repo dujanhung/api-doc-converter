@@ -10,9 +10,11 @@ the regex-based converter language (RECL) is a file format that designated to co
 
 users could swap out default RECL alphabets with different ones.
 
-## example
+___
 
-### RECL file
+# example
+
+## RECL file
 
 ```txt
 ▼
@@ -55,7 +57,7 @@ broken-pot-names: [
 ▲
 ```
 
-### input file
+## input file
 
 ```txt
 there are 3 rocks,
@@ -69,7 +71,7 @@ pot 5 is broken.
 that's all the pots.
 ```
 
-### output file
+## output file
 
 ```yml
 rocks-count: 3
