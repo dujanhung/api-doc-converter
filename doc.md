@@ -14,7 +14,7 @@ rocks count
 ◇
 ◙
 ◆
-there are ▶a◀ rocks.
+there are ▶a◀ rocks,
 ◇
 ◘
 ◆
@@ -40,7 +40,7 @@ broken-pots-count: ▶a◀
 ### input file
 
 ```txt
-there are 3 rocks.
+there are 3 rocks,
 they broke 5 pots.
 ```
 
