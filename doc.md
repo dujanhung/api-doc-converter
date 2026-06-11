@@ -13,7 +13,7 @@ users could swap out default RECL alphabets with different ones.
 > [!NOTE]
 > every Unicode characters could be used for RECL alphabet, and therefore satify that:
 > - it doesn't conflict with input files.
-> - it's typable and copiable in many IMEs.
+> - it's typable and copiable via Unicode keyboard.
 
 ## example
 
