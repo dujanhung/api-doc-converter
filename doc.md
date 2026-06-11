@@ -78,7 +78,6 @@ ___
 
 ```sh
 pkg install python
-pip install re
 ```
 
 ## run
