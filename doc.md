@@ -150,7 +150,7 @@ represents a flag container.
 represents a regex variable.
 
 > [!NOTE]
-> - `var_name` does not unique across different `▼▲`.
+> - `var_name` is not unique, and can't be moved across different `▼▲`.
 
 </td></tr></thread><tbody><tr><td>
 
