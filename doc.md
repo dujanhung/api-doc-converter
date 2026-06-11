@@ -79,7 +79,7 @@ represents an abitrary text container.
 represents a regex variable.
 
 > [!NOTE]
-> - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
+> `var_name` must be `^[A-Za-z\_\-]{1-255}$`
 
 ## regexs
 
