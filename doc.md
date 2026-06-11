@@ -35,9 +35,9 @@ description
 </td><td>
 construct an unordered list with <code>n</code> elements
 </td></tr></tbody><thread><tr><td>
-<code>ol(n)</code>
+<code>ol(n,t,s)</code>
 </td><td>
-construct an ordered list with <code>n</code> elements
+construct an ordered list with <code>n</code> elements, type <code>t</code> and start with <code>s</code>
 </td></tr></thread><tbody><tr><td>
 <code>row(n)</code>
 </td><td>
