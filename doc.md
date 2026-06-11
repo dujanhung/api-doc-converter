@@ -220,7 +220,7 @@ represents a flag container.
 ## regex methods
 
 > [!NOTE]
-> unless otherwised noted, `▰▱` can't be left empty. the one shown in this doc is for visual purposes.
+> unless otherwised noted, `▰▱` can't be left empty. the ones shown in this doc are for visual purposes.
 
 <table><thread><tr><td>
 
