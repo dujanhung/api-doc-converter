@@ -8,7 +8,9 @@ the regex-based converter language (RECL) is a file format that designated to co
 
 ## reusable alphabets
 
-swap out RECL alphabets with different ones.
+users could swap out default RECL alphabets with different ones.
+
+any Unicode characters could be swapped.
 
 ## example
 
