@@ -215,12 +215,12 @@ represents a literal text container.
 
 represents a flag container.
 
+> [!NOTE]
+> unless otherwised noted, `▰▱` can't be left empty. the ones shown in this doc are for visual purposes.
+
 </td></tr></tbody></table>
 
 ## regex methods
-
-> [!NOTE]
-> unless otherwised noted, `▰▱` can't be left empty. the ones shown in this doc are for visual purposes.
 
 <table><thread><tr><td>
 
