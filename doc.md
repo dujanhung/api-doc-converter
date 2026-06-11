@@ -205,7 +205,7 @@ construct a MD unordered list with <code>n</code> elements
 </td><td>
 <code>1</code>
 </td><td>
-construct a MD ordered list with <code>n</code> elements, type <code>t</code> and start with <code>s</code>
+construct a MD ordered list with <code>n</code> elements, type <code>t</code>, and start with <code>s</code>
 </td></tr></thread><tbody><tr><td>
 <code>row(n)</code>
 </td><td>
