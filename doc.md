@@ -1,10 +1,10 @@
-# RBCL - the regex-based converter language
+# RECL - the regex-based converter language
 
 ## description
 
 ## example
 
-### RBCL file
+### RECL file
 
 ```txt
 ▼
