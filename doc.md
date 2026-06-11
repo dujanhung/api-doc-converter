@@ -26,12 +26,19 @@ list of texts
 
 represents a list of texts.
 
-
-## attributes
-
-- `row()`
-- `collumn()`
-- `table()`
+<table><thread><tr><td>
+attributes
+</td><td>
+description
+</td></tr></thread><tbody><tr><td>
+<code>row()</code>
+</td><td>
+construct a table with one row
+</td></tr></tbody><thread><tr><td>
+<code>collumn()</code>
+</td><td>
+construct a table with one collumn
+</td></tr></thread></table>
 
 </td></tr></tbody></table>
 
