@@ -122,10 +122,11 @@ filepath to a JSON file containing a custom RECL alphabet
 <code>-i</code>
 </td><td>
 filepath to input file
+</td></tr></thread><tbody><tr><td>
 <code>-o</code>
 </td><td>
 filepath to output file
-</td></tr></thread></table>
+</td></tr></tbody></table>
 
 ___
 
