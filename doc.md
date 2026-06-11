@@ -10,15 +10,15 @@
 ▼
 ▣
 ◆
-dots count
+rocks count
 ◇
 ◙
 ◆
-there are ▶a◀ dots.
+there are ▶a◀ rocks.
 ◇
 ◘
 ◆
-dots-count: ▶a◀
+rocks-count: ▶a◀
 ◇
 ▲
 ▼
@@ -40,14 +40,14 @@ broken-pots-count: ▶a◀
 ### input file
 
 ```txt
-there are 3 dots.
+there are 3 rocks.
 they broke 5 pots.
 ```
 
 ### output file
 
 ```yml
-dots-count: 3
+rocks-count: 3
 broken-pots-count: 5
 ```
 
