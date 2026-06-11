@@ -88,7 +88,7 @@ represents an attribute container.
 ▶var_name◀
 ```
 
-represents a regex match variable.
+represents a regex matching variable.
 
 > [!NOTE]
 > `var_name` must be `^[A-Za-z\_\-]{1-255}$`
