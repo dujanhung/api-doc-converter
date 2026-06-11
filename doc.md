@@ -117,7 +117,7 @@ description
 </td></tr></thread><tbody><tr><td>
 <code>-a</code>
 </td><td>
-filepath to a JSON file containing a custom RECL alphabet
+filepath to a JSON file containing a RECL alphabet
 </td></tr></tbody><thread><tr><td>
 <code>-i</code>
 </td><td>
