@@ -33,7 +33,7 @@ the looks
 look.
 ◨
 ▶a◀ is broken.
-◧▰delim('\n')▱
+◧▰delim(',\n')▱
 that's all the pots
 ◇
 ◘
@@ -66,7 +66,7 @@ rocks-count: 3
 broken-pots-count: 5
 broken-pot-names: [
 'pot 1',
-'pot 5',
+'pot 5'
 ]
 ```
 
