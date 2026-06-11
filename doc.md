@@ -134,7 +134,7 @@ represents a regex content from the output file.
 ▲
 ```
 
-represents a keyword container that focus on a separated scope.
+represents a regex scope.
 
 </td></tr></thread><tbody><tr><td>
 
