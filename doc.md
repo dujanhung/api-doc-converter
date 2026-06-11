@@ -176,25 +176,25 @@ description
 </td><td>
 <code>1</code>
 </td><td>
-construct an unordered list with <code>n</code> elements
+construct a MD unordered list with <code>n</code> elements
 </td></tr></tbody><thread><tr><td>
 <code>ol(n,t,s)</code>
 </td><td>
 <code>1</code>
 </td><td>
-construct an ordered list with <code>n</code> elements, type <code>t</code> and start with <code>s</code>
+construct a MD ordered list with <code>n</code> elements, type <code>t</code> and start with <code>s</code>
 </td></tr></thread><tbody><tr><td>
 <code>row(n)</code>
 </td><td>
 <code>1</code>
 </td><td>
-construct a table with <code>n</code> row
+construct a MD table with <code>n</code> row
 </td></tr></tbody><thread><tr><td>
 <code>collumn(n)</code>
 </td><td>
 <code>1</code>
 </td><td>
-construct a table with <code>n</code> collumn
+construct a MD table with <code>n</code> collumn
 </td></tr></thread><tbody><tr><td>
 <code>delim(n)</code>
 </td><td>
