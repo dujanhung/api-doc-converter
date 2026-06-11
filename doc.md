@@ -96,7 +96,7 @@ represents a flag container.
 ▶var_name◀
 ```
 
-represents a regex matching variable.
+represents a regex variable.
 
 > [!NOTE]
 > `var_name` must be `^[A-Za-z\_\-]{1-255}$`
