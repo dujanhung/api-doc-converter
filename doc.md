@@ -18,7 +18,7 @@ my name is ▶a◀
 ◇
 ◘
 ◆
-name:▶a◀
+name: ▶a◀
 ◇
 ▲
 ```
@@ -32,7 +32,7 @@ my name is regex
 ### output file
 
 ```yml
-name:regex
+name: regex
 ```
 
 ## keywords
