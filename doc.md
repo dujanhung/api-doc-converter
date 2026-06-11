@@ -63,6 +63,8 @@ broken-pot-names: [
 there are 3 rocks,
 they broke 5 pots.
 
+unaffected-texts: 999
+
 look.
 pot 1 is broken.
 pot 5 is broken.
@@ -74,6 +76,9 @@ that's all the pots.
 ```yml
 rocks-count: 3
 broken-pots-count: 5
+
+unaffected-texts: 999
+
 broken-pot-names: [
 'pot 1',
 'pot 5'
