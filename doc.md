@@ -100,7 +100,7 @@ represents an infinite repetitive structure of an abitrary text, a list, or a ta
 <table><thread><tr><td>
 attributes
 </td><td>
-index
+index (begin with <code>0</code>)
 </td><td>
 description
 </td></tr></thread><tbody><tr><td>
