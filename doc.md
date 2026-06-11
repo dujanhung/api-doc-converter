@@ -12,7 +12,7 @@ abitrary texts
 ◇
 ```
 
-represents a regular text regex.
+represents a text container.
 
 </td></tr></thread><tbody><tr><td>
 
