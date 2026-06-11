@@ -31,6 +31,14 @@ attributes
 </td><td>
 description
 </td></tr></thread><tbody><tr><td>
+<code>ul(n)</code>
+</td><td>
+construct an unordered list with <code>n</code> elements
+</td></tr></tbody><thread><tr><td>
+<code>ol(n)</code>
+</td><td>
+construct an ordered list with <code>n</code> elements
+</td></tr></thread><tbody><tr><td>
 <code>row(n)</code>
 </td><td>
 construct a table with <code>n</code> row
