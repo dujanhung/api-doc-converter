@@ -10,9 +10,9 @@ the regex-based converter language (RECL) is a file format that designated to co
 
 users could swap out default RECL alphabets with different ones.
 
-## easy-to-use regex methods
+## human-readable regex methods
 
-users no longer deal with alienated regexs. instead, human-readable regex takes place to improve usability.
+users no longer deal with complex alienated regexs. instead, easy human-readable regex takes place to improve usability.
 
 ___
 
