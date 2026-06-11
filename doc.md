@@ -10,7 +10,7 @@
 ▼
 ▣
 ◆
-simple
+situation
 ◇
 ◙
 ◆
@@ -26,7 +26,7 @@ broken-pots-count: ▶b◀
 ▼
 ▣
 ◆
-complex
+look
 ◇
 ◙
 ◆
