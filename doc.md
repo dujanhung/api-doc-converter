@@ -76,10 +76,18 @@ represents an abitrary text container.
 ▶var_name◀
 ```
 
-represents a regex variable.
+represents a regex match variable.
 
 > [!NOTE]
 > `var_name` must be `^[A-Za-z\_\-]{1-255}$`
+
+# <code>◉○</code>
+
+```txt
+◉flag1(),flag2(),...○
+```
+
+represents an attribute container.
 
 ## regexs
 
