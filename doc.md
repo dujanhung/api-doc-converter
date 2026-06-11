@@ -10,7 +10,7 @@
 ▼
 ▣
 ◆
-the first regex-based converter file
+dots count
 ◇
 ◙
 ◆
@@ -21,18 +21,34 @@ there are ▶a◀ dots.
 dots-count: ▶a◀
 ◇
 ▲
+▼
+▣
+◆
+broken pots count
+◇
+◙
+◆
+they broke ▶a◀ pots.
+◇
+◘
+◆
+broken-pots-count: ▶a◀
+◇
+▲
 ```
 
 ### input file
 
 ```txt
 there are 3 dots.
+they broke 5 pots.
 ```
 
 ### output file
 
 ```yml
 dots-count: 3
+broken-pots-count: 5
 ```
 
 ## keywords
