@@ -60,21 +60,6 @@ represents a regex content from the output file.
 
 represents an entry container.
 
-## regexs
-
-### <code>▶◀</code>
-
-```txt
-▶var_name◀
-```
-
-represents an abitrary variable regex.
-
-> [!NOTE]
-> - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
-
-<table><thread><tr><td>
-
 # <code>◆◇</code>
 
 ```txt
@@ -84,6 +69,22 @@ abitrary text container
 ```
 
 represents an abitrary text container.
+
+# <code>▶◀</code>
+
+```txt
+▶var_name◀
+```
+
+represents an abitrary variable container.
+
+> [!NOTE]
+> - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
+
+## regexs
+
+<table><thread><tr><td>
+
 
 </td></tr></thread><tbody><tr><td>
 
