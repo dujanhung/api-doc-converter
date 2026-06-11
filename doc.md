@@ -84,7 +84,7 @@ pkg install python
 python script.py -l lang.json -i input.md -o output.md
 ```
 
-- `-l` : a JSON file containing Unicode chars mapping
+- `-l` : a JSON file containing Unicode characters mapping
 - `-i` : input file
 - `-o` : output file
 
