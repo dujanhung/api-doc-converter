@@ -150,7 +150,7 @@ represents a flag container.
 represents a regex variable.
 
 > [!NOTE]
-> - `var_name` must be `^[A-Za-z\_\-]{1-255}$`, and be unique within the same `▼▲`.
+> - `var_name` does not unique across different `▼▲`.
 
 </td></tr></thread><tbody><tr><td>
 
