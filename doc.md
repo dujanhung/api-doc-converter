@@ -127,10 +127,10 @@ represents an abitrary text container.
 
 </td></tr></tbody><thread><tr><td>
 
-# <code>◉○</code>
+# <code>▰▱</code>
 
 ```txt
-◉flag1(),flag2(),...○
+▰flag1(),flag2(),...▱
 ```
 
 represents a flag container.
@@ -160,7 +160,7 @@ represents a regex variable.
 ```txt
 ◨
 list of texts
-◧◉delim(',')○
+◧▰delim(',')▱
 ```
 
 represents an infinite repetitive structure of an abitrary text, a list, or a table.
