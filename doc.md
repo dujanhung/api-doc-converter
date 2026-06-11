@@ -48,7 +48,7 @@ represents a regex content from the output file.
 
 ## containers
 
-### <code>▼▲</code>
+# <code>▼▲</code>
 
 ```txt
 ▼
@@ -76,7 +76,7 @@ represents an abitrary text container.
 ▶var_name◀
 ```
 
-represents an abitrary variable container.
+represents a placeholder at a specified spot in an abitrary text.
 
 > [!NOTE]
 > - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
