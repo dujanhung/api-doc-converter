@@ -76,9 +76,24 @@ ___
 
 ## CLI
 
+### install Python
+
+via command line
+
 ```sh
 pkg install python
 ```
+
+via GHA
+
+```yml
+- name: setup Python
+  uses: actions/setup-python@v6
+  with:
+   python-version: '3.14'
+```
+
+### run
 
 ```sh
 python script.py -m map.json -i input.md -o output.md
