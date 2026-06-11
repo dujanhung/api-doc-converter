@@ -10,12 +10,6 @@ the regex-based converter language (RECL) is a file format that designated to co
 
 users could swap out default RECL alphabets with different ones.
 
-> [!NOTE]
-> every Unicode characters could be used for RECL alphabet, and therefore satify that:
-> - it doesn't conflict with input files.
-> - it's typable via Unicode keyboard.
-> - it does not skip the caret over multiple characters.
-
 ## example
 
 ### RECL file
