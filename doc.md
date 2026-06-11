@@ -1,10 +1,10 @@
-# RBC - the regex-based converter language
+# REBC - the regex-based converter language
 
 ## description
 
 ## example
 
-### RBC file
+### REBC file
 
 ```txt
 ▼
