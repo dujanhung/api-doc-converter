@@ -80,6 +80,7 @@ represents a regex variable.
 
 > [!NOTE]
 > - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
+> - conflicted chars can be escaped with a backsplash char before it.
 
 ## regexs
 
