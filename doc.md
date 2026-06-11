@@ -8,7 +8,9 @@
 
 <details>
 <summary>
+<h1>
 <code>◆◇</code>
+</h1>
 </summary>
 
 ```txt
