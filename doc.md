@@ -1,4 +1,4 @@
-# the regex-based converter API doc
+# the regex-based converter language doc
 
 ## description
 
