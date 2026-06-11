@@ -76,7 +76,10 @@ represents an abitrary text container.
 ◉flag1(),flag2(),...○
 ```
 
-represents an attribute container.
+represents a flag container.
+
+> [!NOTE]
+> - this container can't be used alone.
 
 ## regexs
 
